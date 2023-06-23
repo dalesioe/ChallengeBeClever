@@ -1,0 +1,12 @@
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.csproj.AssemblyReference.cache
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.AssemblyInfoInputs.cache
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.AssemblyInfo.cs
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\bin\Debug\net6.0\ChallengeBeClever.Common.Model.deps.json
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\bin\Debug\net6.0\ChallengeBeClever.Common.Model.dll
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\bin\Debug\net6.0\ChallengeBeClever.Common.Model.pdb
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.dll
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\refint\ChallengeBeClever.Common.Model.dll
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ChallengeBeClever.Common.Model.pdb
+C:\Users\Emiliano D´alesio\Desktop\Challenge2\ChallengeBeClever\ChallengeBeClever.Common.Model\obj\Debug\net6.0\ref\ChallengeBeClever.Common.Model.dll

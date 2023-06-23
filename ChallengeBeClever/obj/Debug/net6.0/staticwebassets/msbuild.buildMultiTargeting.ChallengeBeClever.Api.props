@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChallengeBeClever.Api.props" />
+</Project>
