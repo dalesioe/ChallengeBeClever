@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8gHvp2xzKlEgb/JVCVK+JlaDaX7/FZ/X2Xz4A8lreoZkEdSrgSHy+zkNIIhy5sPhYsyv7UFFUgh/nS3P1fAHQ==",
+  "dgSpecHash": "ohcEsdZi8i8bMpl7IMm9xZIEpMrNt/aYBLgqwaLeeW+u+D7XBFo9IrrCJoD5/Lpb4/1ab5NzyqV1vc48Qfdwsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj",
+  "projectFilePath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emiliano D´alesio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Emiliano D´alesio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

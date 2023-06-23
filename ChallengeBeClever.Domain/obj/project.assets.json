@@ -2062,11 +2062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj",
       "projectName": "ChallengeBeClever.Domain",
-      "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj",
+      "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj",
       "packagesPath": "C:\\Users\\Emiliano D´alesio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

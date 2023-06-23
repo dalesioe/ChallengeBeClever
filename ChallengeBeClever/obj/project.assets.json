@@ -2727,11 +2727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever\\ChallengeBeClever.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever\\ChallengeBeClever.Api.csproj",
       "projectName": "ChallengeBeClever.Api",
-      "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever\\ChallengeBeClever.Api.csproj",
+      "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever\\ChallengeBeClever.Api.csproj",
       "packagesPath": "C:\\Users\\Emiliano D´alesio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever\\obj\\",
+      "outputPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2753,14 +2753,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj": {
-              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj"
+            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj": {
+              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Application\\ChallengeBeClever.Application.csproj"
             },
-            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj": {
-              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj"
+            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj": {
+              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Domain\\ChallengeBeClever.Domain.csproj"
             },
-            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Infrastructure\\ChallengeBeClever.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge2\\ChallengeBeClever\\ChallengeBeClever.Infrastructure\\ChallengeBeClever.Infrastructure.csproj"
+            "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Infrastructure\\ChallengeBeClever.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Emiliano D´alesio\\Desktop\\Challenge\\ChallengeBeClever.Infrastructure\\ChallengeBeClever.Infrastructure.csproj"
             }
           }
         }
